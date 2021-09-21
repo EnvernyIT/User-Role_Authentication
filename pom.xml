@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.enverny</groupId>
-	<artifactId>torarica.administration</artifactId>
+	<artifactId>user.role.admin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>torarica.administration</name>
+	<name>User.Role</name>
 	<description>Personal Project for advancements</description>
 	<properties>
 		<java.version>1.8</java.version>
