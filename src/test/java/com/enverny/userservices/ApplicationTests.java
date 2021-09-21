@@ -1,4 +1,4 @@
-package com.enverny.torarica_administration;
+package com.enverny.userservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
